@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "logo": "KSV.",
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "process": "Processus",
+    "contact": "Contact",
+    "startProject": "Démarrer Projet"
+  },
+  "hero": {
+    "label": "BONJOUR, JE SUIS",
+    "namePrefix": "KEDARI SRI",
+    "nameSuffix": "VENKATESH",
+    "role": "Analyste de Données • Ingénieur en IA • Fondateur",
+    "description": "Je conçois des systèmes d'IA intelligents, des automatisations de santé et des produits numériques axés sur les données pour résoudre des défis concrets.",
+    "viewPortfolio": "Voir Portfolio",
+    "contactMe": "Me Contacter",
+    "scrollHint": "Faites défiler pour explorer la galaxie"
+  },
+  "about": {
+    "tag": "01 // PHILOSOPHIE & VISION",
+    "title": "À PROPOS",
+    "bio": "Je m'appelle KEDARI SRI VENKATESH, Analyste de Données, Ingénieur IA et Fondateur dédié à la création de logiciels intelligents, d'IA médicale et de plateformes numériques scalables.",
+    "stats": {
+      "projectsDelivered": "Projets Livrés",
+      "ongoingProject": "Projet en Cours",
+      "upcomingProjects": "Projets à Venir",
+      "builtFromScratch": "Conçu à Partir de Zéro"
+    }
+  },
+  "skills": {
+    "tag": "02 // COMPÉTENCES CLÉS",
+    "title": "COMPÉTENCES & EXPERTISE",
+    "subtitle": "Architecture d’intelligence machine à haute performance et infrastructure cloud de pointe.",
+    "items": {
+      "dataAnalytics": {
+        "title": "Analyse de Données",
+        "desc": "Intelligence de données et tableaux de bord analytiques.",
+        "tags": [
+          "SQL",
+          "Python",
+          "Pandas",
+          "Power BI"
+        ]
+      },
+      "ai": {
+        "title": "Intelligence Artificielle",
+        "desc": "Systèmes d’IA générative et architectures RAG.",
+        "tags": [
+          "LangChain",
+          "RAG",
+          "Vector DBs"
+        ]
+      },
+      "machineLearning": {
+        "title": "Machine Learning",
+        "desc": "Modélisation prédictive et réseaux de neurones profonds.",
+        "tags": [
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-Learn"
+        ]
+      },
+      "computerVision": {
+        "title": "Vision par Ordinateur",
+        "desc": "Détection d’objets et compréhension vidéo multimodale.",
+        "tags": [
+          "OpenCV",
+          "YOLOv8",
+          "MediaPipe"
+        ]
+      },
+      "fullstack": {
+        "title": "Développement Full Stack",
+        "desc": "Next.js 15, React 19, TypeScript et microservices.",
+        "tags": [
+          "Next.js",
+          "React",
+          "TypeScript"
+        ]
+      },
+      "healthcareAutomation": {
+        "title": "Automatisation Santé",
+        "desc": "Flux cliniques critiques et plateformes SaaS d’hôpitaux.",
+        "tags": [
+          "EHR",
+          "HIPAA",
+          "SaaS Engines"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "tag": "03 // PROJETS SÉLECTIONNÉS",
+    "title": "PROJETS CHOISIS",
+    "ongoingBadge": "EN COURS",
+    "upcomingBadge": "À VENIR",
+    "confidentialityNotice": "Accords de confidentialité stricts : seuls les projets propriétaires et SaaS internes sont affichés.",
+    "items": {
+      "hospitalAdGen": {
+        "title": "Générateur Publicitaire Hôpital",
+        "category": "IA Médicale · Vidéo · IA Générative",
+        "status": "En Développement",
+        "desc": "Moteur IA de création vidéo pour annonces médicales et cliniques.",
+        "tags": [
+          "IA",
+          "Healthcare",
+          "Video"
+        ]
+      },
+      "medicalReportAi": {
+        "title": "Rapports Médicaux IA",
+        "category": "NLP Clinique · Diagnostic",
+        "status": "À Venir",
+        "desc": "Analyseur automatique de comptes-rendus médicaux et radiologiques.",
+        "tags": [
+          "NLP",
+          "Document AI",
+          "FastAPI"
+        ]
+      },
+      "smartClinicCrm": {
+        "title": "CRM Clinique Intelligente",
+        "category": "SaaS Santé · Cloud",
+        "status": "À Venir",
+        "desc": "Gestion clinique moderne unifiant dossiers, planning et facturation.",
+        "tags": [
+          "React 19",
+          "PostgreSQL",
+          "WebSockets"
+        ]
+      }
+    }
+  },
+  "process": {
+    "tag": "04 // MÉTHODOLOGIE",
+    "title": "NOTRE PROCESSUS",
+    "steps": {
+      "research": {
+        "num": "01",
+        "title": "Recherche",
+        "desc": "Compréhension approfondie des besoins cliniques."
+      },
+      "analyze": {
+        "num": "02",
+        "title": "Analyse",
+        "desc": "Profilage des données et tests de faisabilité."
+      },
+      "design": {
+        "num": "03",
+        "title": "Design",
+        "desc": "Architectures modulaires et interfaces soignées."
+      },
+      "develop": {
+        "num": "04",
+        "title": "Développement",
+        "desc": "Code robuste et sécurisé pour la production."
+      },
+      "launch": {
+        "num": "05",
+        "title": "Lancement",
+        "desc": "Déploiement haute disponibilité et monitoring."
+      }
+    }
+  },
+  "contact": {
+    "tag": "05 // COLLABORATION",
+    "titleMain": "BÂTISSONS",
+    "titleAccent": "L'AVENIR",
+    "description": "Intéressé par notre plateforme SaaS médicale ou nos services IA ? Contactez-moi directement.",
+    "directChannels": "CANAUX DIRECTS",
+    "directDesc": "Ouvert aux partenariats pilotes et collaborations technologiques.",
+    "formTitle": "ENVOYER UN MESSAGE",
+    "nameLabel": "Votre Nom",
+    "namePlaceholder": "Jean Dupont",
+    "emailLabel": "Adresse Email",
+    "emailPlaceholder": "jean@domaine.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Décrivez votre projet...",
+    "sendButton": "Envoyer",
+    "sending": "Envoi...",
+    "successMsg": "Message bien reçu. Je vous répondrai rapidement."
+  },
+  "footer": {
+    "role": "Analyste de Données • Ingénieur IA • Fondateur",
+    "copyright": "© 2026 KEDARI SRI VENKATESH. Tous droits réservés."
+  }
+}

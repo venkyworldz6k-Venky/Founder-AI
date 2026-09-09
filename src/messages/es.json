@@ -1,0 +1,202 @@
+{
+  "nav": {
+    "logo": "KSV.",
+    "home": "Inicio",
+    "about": "Acerca de",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "process": "Proceso",
+    "contact": "Contacto",
+    "startProject": "Iniciar Proyecto"
+  },
+  "hero": {
+    "label": "HOLA, SOY",
+    "namePrefix": "KEDARI SRI",
+    "nameSuffix": "VENKATESH",
+    "role": "Analista de Datos • Ingeniero de IA • Fundador",
+    "description": "Diseño sistemas inteligentes de IA, automatización sanitaria y productos digitales basados en datos que resuelven problemas empresariales reales mediante ingeniería escalable.",
+    "viewPortfolio": "Ver Portafolio",
+    "contactMe": "Contáctame",
+    "scrollHint": "Desplázate para explorar la galaxia neuronal"
+  },
+  "about": {
+    "tag": "01 // FILOSOFÍA Y VISIÓN",
+    "title": "ACERCA DE",
+    "bio": "Soy KEDARI SRI VENKATESH, Analista de Datos, Ingeniero de IA y Fundador apasionado por crear software inteligente, IA sanitaria, sistemas de automatización y productos digitales escalables.",
+    "stats": {
+      "projectsDelivered": "Proyectos Entregados",
+      "ongoingProject": "Proyecto en Curso",
+      "upcomingProjects": "Próximos Proyectos",
+      "builtFromScratch": "Construido desde Cero"
+    }
+  },
+  "skills": {
+    "tag": "02 // COMPETENCIAS CLAVE",
+    "title": "HABILIDADES Y EXPERIENCIA",
+    "subtitle": "Arquitectura de inteligencia artificial de alto rendimiento, flujos clínicos automatizados e infraestructura en la nube.",
+    "items": {
+      "dataAnalytics": {
+        "title": "Análisis de Datos",
+        "desc": "Inteligencia de datos integral, modelado predictivo y paneles empresariales de alto rendimiento.",
+        "tags": [
+          "SQL",
+          "Python",
+          "Pandas",
+          "Power BI",
+          "Pipelines ETL"
+        ]
+      },
+      "ai": {
+        "title": "Inteligencia Artificial",
+        "desc": "Sistemas de IA generativa para producción, agentes LLM especializados y arquitecturas RAG.",
+        "tags": [
+          "LangChain",
+          "LlamaIndex",
+          "RAG",
+          "Vector DBs",
+          "Agents"
+        ]
+      },
+      "machineLearning": {
+        "title": "Machine Learning",
+        "desc": "Modelado predictivo, redes neuronales profundas y puntos de inferencia en producción.",
+        "tags": [
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-Learn",
+          "Feature Engineering"
+        ]
+      },
+      "computerVision": {
+        "title": "Visión por Computadora",
+        "desc": "Detección de objetos de alta velocidad, comprensión de video multimodal y segmentación neuronal.",
+        "tags": [
+          "OpenCV",
+          "YOLOv8",
+          "MediaPipe",
+          "Video AI"
+        ]
+      },
+      "fullstack": {
+        "title": "Desarrollo Full Stack",
+        "desc": "Plataformas web modernas con Next.js 15, React 19, TypeScript y microservicios escalables.",
+        "tags": [
+          "Next.js 15",
+          "React 19",
+          "TypeScript",
+          "Tailwind CSS",
+          "Node.js"
+        ]
+      },
+      "healthcareAutomation": {
+        "title": "Automatización Sanitaria",
+        "desc": "Flujos clínicos de misión crítica, cumplimiento de HIPAA y plataformas SaaS hospitalarias.",
+        "tags": [
+          "EHR Systems",
+          "HIPAA Workflows",
+          "SaaS Engines",
+          "Clinical AI"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "tag": "03 // ARQUITECTURA DEL PORTAFOLIO",
+    "title": "TRABAJOS SELECCIONADOS",
+    "ongoingBadge": "EN CURSO",
+    "upcomingBadge": "PRÓXIMO",
+    "confidentialityNotice": "Aviso de Confidencialidad: Los proyectos de clientes se mantienen bajo acuerdos comerciales estrictos. Mostrando plataformas SaaS propietarias y proyectos activos.",
+    "items": {
+      "hospitalAdGen": {
+        "title": "Generador de Publicidad Hospitalaria",
+        "category": "IA Sanitaria · Automatización de Video · IA Generativa",
+        "status": "Actualmente en Desarrollo",
+        "desc": "Motor de generación de video con IA para hospitales y clínicas que produce anuncios y comunicaciones médicas verificadas.",
+        "tags": [
+          "Generative AI",
+          "Healthcare SaaS",
+          "Video Synthesis",
+          "Python",
+          "Next.js"
+        ]
+      },
+      "medicalReportAi": {
+        "title": "IA para Informes Médicos",
+        "category": "NLP Clínico · Inteligencia Diagnóstica · Agentes LLM",
+        "status": "Próximo",
+        "desc": "Analizador inteligente de documentos clínicos que sintetiza hallazgos de radiología y laboratorio en resúmenes médicos accionables.",
+        "tags": [
+          "Biomedical NLP",
+          "Document AI",
+          "RAG Architecture",
+          "FastAPI"
+        ]
+      },
+      "smartClinicCrm": {
+        "title": "CRM para Clínicas Inteligentes",
+        "category": "SaaS Sanitario · Infraestructura en la Nube",
+        "status": "Próximo",
+        "desc": "Suite de gestión clínica integral que une admisión de pacientes, agenda inteligente y flujos de facturación.",
+        "tags": [
+          "React 19",
+          "TypeScript",
+          "PostgreSQL",
+          "Real-time WebSockets"
+        ]
+      }
+    }
+  },
+  "process": {
+    "tag": "04 // METODOLOGÍA",
+    "title": "CÓMO CONSTRUIMOS",
+    "steps": {
+      "research": {
+        "num": "01",
+        "title": "Investigación",
+        "desc": "Análisis exhaustivo de desafíos del dominio y requisitos clínicos."
+      },
+      "analyze": {
+        "num": "02",
+        "title": "Análisis",
+        "desc": "Perfilado profundo de datos y pruebas de viabilidad algorítmica."
+      },
+      "design": {
+        "num": "03",
+        "title": "Diseño",
+        "desc": "Topologías de sistemas modulares e interfaces editoriales de lujo."
+      },
+      "develop": {
+        "num": "04",
+        "title": "Desarrollo",
+        "desc": "Código con tipado estricto, alto rendimiento y pruebas rigurosas."
+      },
+      "launch": {
+        "num": "05",
+        "title": "Lanzamiento",
+        "desc": "Despliegue continuo sin tiempo de inactividad y optimización neuronal."
+      }
+    }
+  },
+  "contact": {
+    "tag": "05 // VENTURAS Y COLABORACIÓN",
+    "titleMain": "CONSTRUYAMOS",
+    "titleAccent": "EL FUTURO",
+    "description": "¿Interesado en nuestra plataforma SaaS hospitalaria o servicios de ingeniería de IA? Hablemos directamente.",
+    "directChannels": "CANALES DIRECTOS",
+    "directDesc": "Abierto a colaboraciones empresariales de IA y asociaciones piloto de SaaS médico.",
+    "formTitle": "ENVIAR UN MENSAJE",
+    "nameLabel": "Tu Nombre",
+    "namePlaceholder": "Carlos Ruiz",
+    "emailLabel": "Correo Electrónico",
+    "emailPlaceholder": "carlos@empresa.com",
+    "messageLabel": "Detalles del Proyecto",
+    "messagePlaceholder": "Cuéntame sobre tu proyecto o consulta...",
+    "sendButton": "Enviar Mensaje",
+    "sending": "Transmitiendo...",
+    "successMsg": "Mensaje recibido. Responderé a la brevedad."
+  },
+  "footer": {
+    "role": "Analista de Datos • Ingeniero de IA • Fundador",
+    "copyright": "© 2026 KEDARI SRI VENKATESH. Todos los derechos reservados."
+  }
+}

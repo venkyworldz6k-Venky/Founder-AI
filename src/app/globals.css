@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-space: #0A0A08;
+  --text-primary: #D8D2C4;
+  --text-secondary: #9D988B;
+  --accent-olive: #94A17C;
+  --glow-blue: #9FD8FF;
+}
+
+body {
+  background-color: var(--bg-space);
+  color: var(--text-primary);
+  font-family: 'Inter', var(--font-inter), sans-serif;
+  overflow-x: hidden;
+  selection-background-color: #94A17C;
+  selection-color: #0A0A08;
+}
+
+::selection {
+  background: #94A17C;
+  color: #0A0A08;
+}
+
+/* Luxury Editorial Typography */
+.font-display {
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.font-luxury {
+  font-family: 'Bodoni Moda', serif;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  font-feature-settings: "liga" 1, "dlig" 1;
+}
+
+.font-body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Compatibility aliases for portfolio components */
+.font-momento,
+.font-garamond,
+.font-cinzel {
+  font-family: 'Bodoni Moda', serif;
+  letter-spacing: 0.02em;
+  font-feature-settings: "liga" 1, "dlig" 1;
+}
+
+.font-bebas {
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.font-inter {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Film Grain Overlay */
+.film-grain {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  right: -50%;
+  bottom: -50%;
+  width: 200%;
+  height: 200vh;
+  background: transparent url('data:image/svg+xml,%3Csvg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"%3E%3Cfilter id="noiseFilter"%3E%3CfeTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" stitchTiles="stitch"/%3E%3C/filter%3E%3Crect width="100%25" height="100%25" filter="url(%23noiseFilter)" opacity="0.035"/%3E%3C/svg%3E') repeat;
+  pointer-events: none;
+  z-index: 40;
+}
+
+/* Luxury Glassmorphism */
+.glass-card {
+  background: rgba(255, 255, 255, 0.025);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(216, 210, 196, 0.08);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
+}
+
+.glass-card:hover {
+  border-color: rgba(148, 161, 124, 0.3);
+  box-shadow: 0 25px 60px rgba(159, 216, 255, 0.05);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0A0A08;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9D988B33;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94A17C88;
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "logo": "KSV.",
+    "home": "Startseite",
+    "about": "Über mich",
+    "projects": "Projekte",
+    "skills": "Fähigkeiten",
+    "process": "Prozess",
+    "contact": "Kontakt",
+    "startProject": "Projekt Starten"
+  },
+  "hero": {
+    "label": "HALLO, ICH BIN",
+    "namePrefix": "KEDARI SRI",
+    "nameSuffix": "VENKATESH",
+    "role": "Datenanalyst • KI-Ingenieur • Gründer",
+    "description": "Ich entwickle intelligente KI-Systeme, Healthcare-Automatisierung und datengestützte Produkte zur Lösung geschäftskritischer Probleme.",
+    "viewPortfolio": "Portfolio Ansehen",
+    "contactMe": "Kontakt Aufnehmen",
+    "scrollHint": "Scrollen, um die neuronale Galaxie zu erkunden"
+  },
+  "about": {
+    "tag": "01 // PHILOSOPHIE & VISION",
+    "title": "ÜBER MICH",
+    "bio": "Ich bin KEDARI SRI VENKATESH, Datenanalyst, KI-Ingenieur und Gründer, mit Leidenschaft für Healthcare-KI, Automatisierung und skalierbare Software.",
+    "stats": {
+      "projectsDelivered": "Abgeschlossene Projekte",
+      "ongoingProject": "Laufendes Projekt",
+      "upcomingProjects": "Kommende Projekte",
+      "builtFromScratch": "Von Grund auf Entwickelt"
+    }
+  },
+  "skills": {
+    "tag": "02 // KERNKOMPETENZEN",
+    "title": "FÄHIGKEITEN & EXPERTISE",
+    "subtitle": "Architektur für hochperformante maschinelle Intelligenz und Cloud-Infrastrukturen.",
+    "items": {
+      "dataAnalytics": {
+        "title": "Datenanalyse",
+        "desc": "Ganzheitliche Datenintelligenz und Analyse-Dashboards.",
+        "tags": [
+          "SQL",
+          "Python",
+          "Pandas",
+          "Power BI"
+        ]
+      },
+      "ai": {
+        "title": "Künstliche Intelligenz",
+        "desc": "Generative KI-Systeme und RAG-Architekturen.",
+        "tags": [
+          "LangChain",
+          "RAG",
+          "Vector DBs"
+        ]
+      },
+      "machineLearning": {
+        "title": "Machine Learning",
+        "desc": "Prädiktive Modelle und neuronale Netze.",
+        "tags": [
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-Learn"
+        ]
+      },
+      "computerVision": {
+        "title": "Computer Vision",
+        "desc": "Objekterkennung und multimodale Videoanalyse.",
+        "tags": [
+          "OpenCV",
+          "YOLOv8",
+          "MediaPipe"
+        ]
+      },
+      "fullstack": {
+        "title": "Full-Stack Entwicklung",
+        "desc": "Next.js 15, React 19, TypeScript und APIs.",
+        "tags": [
+          "Next.js",
+          "React",
+          "TypeScript"
+        ]
+      },
+      "healthcareAutomation": {
+        "title": "Healthcare Automatisierung",
+        "desc": "Klinische Workflows und Krankenhaus-SaaS.",
+        "tags": [
+          "EHR",
+          "HIPAA",
+          "SaaS Engines"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "tag": "03 // AUSGEWÄHLTE ARBEITEN",
+    "title": "AUSGEWÄHLTE PROJEKTE",
+    "ongoingBadge": "LAUFEND",
+    "upcomingBadge": "DEMNÄCHST",
+    "confidentialityNotice": "Aufgrund von Vertraulichkeitsvereinbarungen werden nur eigene SaaS-Lösungen präsentiert.",
+    "items": {
+      "hospitalAdGen": {
+        "title": "Krankenhaus-Werbegenerator",
+        "category": "Healthcare-KI · Video · Generative KI",
+        "status": "In Entwicklung",
+        "desc": "KI-gestützte Videoerstellung für Kliniken und medizinische Zentren.",
+        "tags": [
+          "KI",
+          "Healthcare",
+          "Video"
+        ]
+      },
+      "medicalReportAi": {
+        "title": "Medizinische Berichte KI",
+        "category": "Klinische NLP · Diagnostik",
+        "status": "Demnächst",
+        "desc": "Automatische Analyse und Zusammenfassung radiologischer Befunde.",
+        "tags": [
+          "NLP",
+          "Document AI",
+          "FastAPI"
+        ]
+      },
+      "smartClinicCrm": {
+        "title": "Smart Clinic CRM",
+        "category": "Healthcare-SaaS · Cloud",
+        "status": "Demnächst",
+        "desc": "Moderne Praxisverwaltung für Patientenaufnahme und Abrechnung.",
+        "tags": [
+          "React 19",
+          "PostgreSQL",
+          "WebSockets"
+        ]
+      }
+    }
+  },
+  "process": {
+    "tag": "04 // METHODIK",
+    "title": "WIE WIR BAUEN",
+    "steps": {
+      "research": {
+        "num": "01",
+        "title": "Recherche",
+        "desc": "Detaillierte Erfassung klinischer und technischer Anforderungen."
+      },
+      "analyze": {
+        "num": "02",
+        "title": "Analyse",
+        "desc": "Tiefgehende Datenanalyse und Machbarkeitsprüfungen."
+      },
+      "design": {
+        "num": "03",
+        "title": "Design",
+        "desc": "Modulare Systemstrukturen und elegante Interfaces."
+      },
+      "develop": {
+        "num": "04",
+        "title": "Entwicklung",
+        "desc": "Typsicherer, performanter Code für den Produktiveinsatz."
+      },
+      "launch": {
+        "num": "05",
+        "title": "Launch",
+        "desc": "Hochverfügbares Deployment und kontinuierliche Optimierung."
+      }
+    }
+  },
+  "contact": {
+    "tag": "05 // KOOPERATION",
+    "titleMain": "LASSEN SIE UNS",
+    "titleAccent": "DIE ZUKUNFT BAUEN",
+    "description": "Interessiert an unserer Krankenhaus-SaaS oder KI-Engineering? Kontaktieren Sie mich direkt.",
+    "directChannels": "DIREKTE KANÄLE",
+    "directDesc": "Offen für Unternehmenskooperationen und Pilotpartnerschaften.",
+    "formTitle": "NACHRICHT SENDEN",
+    "nameLabel": "Ihr Name",
+    "namePlaceholder": "Max Mustermann",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "max@unternehmen.de",
+    "messageLabel": "Nachricht",
+    "messagePlaceholder": "Erzählen Sie mir von Ihrem Projekt...",
+    "sendButton": "Nachricht Senden",
+    "sending": "Wird gesendet...",
+    "successMsg": "Nachricht erhalten. Ich werde mich zeitnah bei Ihnen melden."
+  },
+  "footer": {
+    "role": "Datenanalyst • KI-Ingenieur • Gründer",
+    "copyright": "© 2026 KEDARI SRI VENKATESH. Alle Rechte vorbehalten."
+  }
+}

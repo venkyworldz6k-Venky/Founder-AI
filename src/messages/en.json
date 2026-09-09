@@ -1,0 +1,202 @@
+{
+  "nav": {
+    "logo": "KSV.",
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "process": "Process",
+    "contact": "Contact",
+    "startProject": "Start Project"
+  },
+  "hero": {
+    "label": "HELLO, I'M",
+    "namePrefix": "KEDARI SRI",
+    "nameSuffix": "VENKATESH",
+    "role": "Data Analyst • AI Engineer • Founder",
+    "description": "I build intelligent AI systems, data-driven applications, healthcare automation, and scalable digital products with modern engineering.",
+    "viewPortfolio": "View Portfolio",
+    "contactMe": "Contact Me",
+    "scrollHint": "Scroll to explore neural galaxy"
+  },
+  "about": {
+    "tag": "01 // PHILOSOPHY & VISION",
+    "title": "ABOUT",
+    "bio": "I'm KEDARI SRI VENKATESH, a Data Analyst, AI Engineer, and Founder passionate about building intelligent software, data analytics platforms, computer vision solutions, and healthcare AI products.",
+    "stats": {
+      "projectsDelivered": "Projects Delivered",
+      "ongoingProject": "Ongoing Project",
+      "upcomingProjects": "Upcoming Projects",
+      "builtFromScratch": "Built from Scratch"
+    }
+  },
+  "skills": {
+    "tag": "02 // CORE COMPETENCIES",
+    "title": "SKILLS & EXPERTISE",
+    "subtitle": "Architecting high-performance machine intelligence, automated clinical pipelines, and modern cloud infrastructure.",
+    "items": {
+      "dataAnalytics": {
+        "title": "Data Analytics",
+        "desc": "End-to-end data intelligence, probabilistic modeling, enterprise dashboards, and high-throughput telemetry pipelines.",
+        "tags": [
+          "SQL",
+          "Python",
+          "Pandas",
+          "Power BI",
+          "ETL Pipelines"
+        ]
+      },
+      "ai": {
+        "title": "Artificial Intelligence",
+        "desc": "Production generative AI systems, domain-specialized LLM agents, retrieval-augmented generation (RAG), and vector architectures.",
+        "tags": [
+          "LangChain",
+          "LlamaIndex",
+          "RAG",
+          "Vector DBs",
+          "Agents"
+        ]
+      },
+      "machineLearning": {
+        "title": "Machine Learning",
+        "desc": "Predictive modeling, deep neural networks, classification, regression, and scalable production inference endpoints.",
+        "tags": [
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-Learn",
+          "Feature Engineering"
+        ]
+      },
+      "computerVision": {
+        "title": "Computer Vision",
+        "desc": "High-speed object detection, multi-modal video understanding, neural segmentation, and visual quality assurance systems.",
+        "tags": [
+          "OpenCV",
+          "YOLOv8",
+          "MediaPipe",
+          "Video AI"
+        ]
+      },
+      "fullstack": {
+        "title": "Full Stack Development",
+        "desc": "Modern web platforms engineered with Next.js, React 19, TypeScript, scalable microservices, and secure API gateways.",
+        "tags": [
+          "Next.js 15",
+          "React 19",
+          "TypeScript",
+          "Tailwind CSS",
+          "Node.js"
+        ]
+      },
+      "healthcareAutomation": {
+        "title": "Healthcare AI",
+        "desc": "Mission-critical clinical workflows, HIPAA-compliant patient intelligence, automated diagnostics, and hospital SaaS platforms.",
+        "tags": [
+          "Clinical AI",
+          "HIPAA Workflows",
+          "Medical Vision",
+          "Healthcare SaaS"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "tag": "03 // PORTFOLIO ARCHITECTURE",
+    "title": "SELECTED WORK",
+    "ongoingBadge": "ONGOING",
+    "upcomingBadge": "UPCOMING",
+    "confidentialityNotice": "Enterprise Non-Disclosure Notice: Third-party client systems remain restricted under commercial agreements. Displaying proprietary SaaS and upcoming internal ventures.",
+    "items": {
+      "hospitalAdGen": {
+        "title": "Hospital Advertisement Generator",
+        "category": "Healthcare AI · Video Automation · Generative AI",
+        "status": "ONGOING",
+        "desc": "AI-powered multilingual healthcare marketing platform for hospitals and clinics.",
+        "tags": [
+          "Generative AI",
+          "Healthcare SaaS",
+          "Video Synthesis",
+          "Python",
+          "Next.js"
+        ]
+      },
+      "medicalReportAi": {
+        "title": "Medical Report AI",
+        "category": "Clinical NLP · Diagnostic Intelligence · LLM Agents",
+        "status": "UPCOMING",
+        "desc": "LLM-powered medical report understanding and patient summary system.",
+        "tags": [
+          "Biomedical NLP",
+          "Document AI",
+          "RAG Architecture",
+          "FastAPI"
+        ]
+      },
+      "smartClinicCrm": {
+        "title": "Smart Clinic CRM",
+        "category": "Healthcare SaaS · Cloud Infrastructure · Patient Flow",
+        "status": "UPCOMING",
+        "desc": "Complete patient, appointment, billing and hospital management platform.",
+        "tags": [
+          "React 19",
+          "TypeScript",
+          "PostgreSQL",
+          "Real-time WebSockets"
+        ]
+      }
+    }
+  },
+  "process": {
+    "tag": "04 // METHODOLOGY",
+    "title": "HOW WE BUILD",
+    "steps": {
+      "research": {
+        "num": "01",
+        "title": "Research",
+        "desc": "Deconstructing core domain challenges, clinical requirements, and architectural boundaries."
+      },
+      "analyze": {
+        "num": "02",
+        "title": "Analyze",
+        "desc": "Deep exploratory data profiling, edge-case analysis, and algorithmic feasibility tests."
+      },
+      "design": {
+        "num": "03",
+        "title": "Design",
+        "desc": "Formulating modular system topologies, data contracts, and minimalist luxury interfaces."
+      },
+      "develop": {
+        "num": "04",
+        "title": "Develop",
+        "desc": "Writing production-grade, type-safe code with continuous integration and low-latency benchmarks."
+      },
+      "launch": {
+        "num": "05",
+        "title": "Launch",
+        "desc": "Zero-downtime deployment, telemetry monitoring, and iterative neural optimization."
+      }
+    }
+  },
+  "contact": {
+    "tag": "05 // VENTURE & COLLABORATION",
+    "titleMain": "LET'S BUILD",
+    "titleAccent": "THE FUTURE",
+    "description": "Interested in AI engineering, data analytics, healthcare AI, or digital product ventures? Reach out directly.",
+    "directChannels": "DIRECT CHANNELS",
+    "directDesc": "Accepting select enterprise collaborations, AI consulting partnerships, and venture inquiries.",
+    "formTitle": "SEND A MESSAGE",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Alex Mercer",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "alex@enterprise.com",
+    "messageLabel": "Project Brief / Message",
+    "messagePlaceholder": "Tell me about your project, timeline, or data & AI engineering inquiry...",
+    "sendButton": "Send Message",
+    "sending": "Transmitting...",
+    "successMsg": "Message received. I will review and respond promptly."
+  },
+  "footer": {
+    "role": "Data Analyst • AI Engineer • Founder",
+    "copyright": "© 2026 KEDARI SRI VENKATESH. All Rights Reserved."
+  }
+}
